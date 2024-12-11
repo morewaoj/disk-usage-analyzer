@@ -8,6 +8,3 @@ This C program interacts with shell commands (`df`, `du`, `find`) to analyze dis
 - Identifies large files and directories that can be optimized.
 - Suggests optimization actions like removing large unused files.
 
-## Installation
-1. Clone this repository:  
-   ```bash
